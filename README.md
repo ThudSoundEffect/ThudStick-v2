@@ -20,9 +20,11 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 - x4 M5 t-nuts (https://www.amazon.com/dp/B07H57TRN4?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - x14 button upper and lower housing
 - x14 keyswitches
+- x14 keycaps
 ### Purchasing
 - Use JLCPCB for purchasing the PCBs
 - Use JLCPCB with the 8001 Transparent Resin for the 3D printed joystick parts
+- Keycaps can be [3D printed](https://github.com/rana-sylvatica/circle-keycaps) or be [purchased](https://ko-fi.com/s/02dc1dde96)
 ### Joystick Modification
 - Refer to steps 2 and 3 from https://github.com/Sharp-02/JLF-Sharp-Analog-Snap-In#step-2--restrictor-gate-and-trimming
 - Take the original joystick motherboard and desolder all 4 switches
@@ -49,6 +51,7 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 - Use 4 standoffs, 20mm M5 screws, and nuts to affix the motherboard to the aluminum faceplate
 - Place the aluminum faceplate on the case
 - Use 4 50 mm M5 screws and 4 M5 t-nut fittings to connect the aluminum faceplate to the case
+- Screw on the top housing for each of the buttons and put keycap on each
 ### Contact
 If you'd like to purchase a controller message me on [reddit](reddit.com/u/ThudS0undEffect) or on my [Etsy shop](https://www.etsy.com/shop/thudgcc)
 Message me if you have any questions or ideas for controllers I could help with. 
