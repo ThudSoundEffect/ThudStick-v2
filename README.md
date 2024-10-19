@@ -1,8 +1,8 @@
 # ThudStick v2
 Fightstick with fully analog joystick functions as a gamecube controller utilizing a motherboard based on the PHOB v2.0.5, a 3D printed case, and a custom designed PCB to host the hall effect sensors to fit a Sanwa-JLF joystick based on the Sharp Analog Snap-In. 
 Credit to:
-Sharp Analog Snap-In: https://github.com/ThudSoundEffect/ThudStick-v2
-PhobGCC v2.0.5
+- Sharp Analog Snap-In: https://github.com/ThudSoundEffect/ThudStick-v2
+- PhobGCC v2.0.5
 
 ### Features
 - Full analog joystick
